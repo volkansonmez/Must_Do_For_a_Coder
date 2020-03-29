@@ -6,3 +6,4 @@ Answers to the well-known questions asked at coding interviews
 #### Linked List Implimentations
 #### BST Implimentations
 #### Stack_Queue_Heap Implimentations
+#### Hashing Implimentations
