@@ -10,3 +10,4 @@ Answers to the well-known questions asked at coding interviews
 #### Graph DFS Implimentations
 #### Graph BFS Implimentations
 #### Graph SPT and MST Implimentations
+#### Greedy Algorithms Implimentations
