@@ -19,7 +19,7 @@ You are free to:
 
 Under the following terms:
 
-* **Attribution**—You must give appropriate credit (mentioning that your work is derived from work that is © Volkan Sonmez and, where practical, linking to http://www.pythonicfool.com/), and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* **Attribution**—You must give appropriate credit (mentioning that your work is derived from work that is © Volkan Sonmez and, where practical, linking to http://www.pythonicfool.com/), and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. [LICENSE](https://github.com/volkansonmez/Must_Do_For_a_Coder/blob/master/LICENSE)
 
 <p>
 
